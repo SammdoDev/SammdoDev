@@ -34,20 +34,12 @@ Hi! I'm Samuel Dody — a passionate web and mobile developer with a love for te
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 🎮 Play Snake Game!
-> Click the game frame below to start playing 🎯
-
-<iframe height="400px" width="100%" src="https://replit.com/@danielburrow/Snake-Game?embed=true" frameborder="0" allowfullscreen></iframe>
-
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samdo817&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samdo817&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samdo817&theme=merko&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sammdodev&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sammdodev&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sammdodev&theme=merko&hide_border=false&layout=compact)
 
 ---
 
@@ -56,4 +48,4 @@ Hi! I'm Samuel Dody — a passionate web and mobile developer with a love for te
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=samdo817&icon=8&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sammdodev&icon=8&color=3)](https://visitcount.itsvg.in)
