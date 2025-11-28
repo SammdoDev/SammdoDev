@@ -84,10 +84,9 @@ Always learning. Always shipping.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/sammdodev/sammdodev/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/sammdodev/sammdodev/output/github-snake-dark.svg)
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies:
